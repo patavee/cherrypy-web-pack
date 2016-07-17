@@ -1,0 +1,5 @@
+cherrypy
+requests
+jinja2
+ws4py
+pycrypto
