@@ -13,3 +13,4 @@ PyMySQL
 markdown
 mock
 pytz
+pyyaml
