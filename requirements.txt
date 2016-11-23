@@ -14,5 +14,5 @@ markdown
 mock
 pytz
 pyyaml
+pyserial
 pykwalify
-serial
